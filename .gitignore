@@ -1,2 +1,6 @@
 .DS_Store
 .vercel
+
+# plates/ IS tracked: Kie fetches reference images by URL rather than accepting an
+# upload, so stills and product plates have to be publicly hosted like the MP4s are.
+!plates/
